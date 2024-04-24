@@ -37,7 +37,6 @@ Here are some of the technologies and tools that I have experience with:
 - **Version Control**: Git, GitHub
 - **Design**: Adobe Creative Suite, Figma
 - **3D Modeling**: Blender
-- **Others**: Docker
 
 This list is not exhaustive. I'm always open to learning new technologies and tools as required by the projects I work on.
 
