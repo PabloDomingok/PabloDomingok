@@ -44,8 +44,6 @@
 Here are some of the technologies and tools that I have experience with:
 
 - **Frontend**: HTML, CSS, JavaScript, Typescript, React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
 - **Version Control**: Git, GitHub
 - **Design**: Adobe Creative Suite, Figma
 - **3D Modeling**: Blender
