@@ -7,7 +7,7 @@
     <summary><h1 style="display: inline-block">Hi! I'm Pablo Domingo 👋</h1></summary>
   </ul>
 </div>
-![Texto alternativo](https://x.com/pablod_dev/header_photo)
+(https://x.com/pablod_dev/header_photo)
 
 
 <!--Intro start-->
