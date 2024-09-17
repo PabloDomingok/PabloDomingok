@@ -1,6 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="Behance.png" alt="Logo de Behance" width="200"/>
+<img src="Behance.png" alt="Logo de Behance" width="100%"/>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
